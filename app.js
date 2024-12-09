@@ -1,5 +1,4 @@
 
-
 let hrs = document.getElementById('hrs');
 let mins = document.getElementById('min');
 let sec = document.getElementById('sec');
